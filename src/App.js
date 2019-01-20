@@ -1,25 +1,35 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <p className="title">
+        the ninety-nine percent
+        </p>
+        <p className="indented">
+          the ninety-nice percent are irrelevant. 
+          <br></br>
+	        existing merely as pawns
+          <br></br>
+	        in my perennial game of chess.
+          <br></br>
+	        practice for the fraction
+          <br></br>
+	        who want to contribute.
+        </p>
+        <p className="indented">
+          the one percent are influential.
+          <br></br>
+	        shaping my advancement
+          <br></br>
+	        and defending my castle.
+          <br></br>
+	        self-electing onto my board
+          <br></br>
+	        to propagate their agency.
+        </p>
       </div>
     );
   }

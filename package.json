@@ -1,16 +1,19 @@
 {
   "name": "the-ninety-nine-percent",
+  "homepage": "http://staff.washington.edu/kes97/journal/ninety-nine-percent/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
+    "deploy": "npm run build&&gh-pages -d build",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
