@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kes97/journal/ninety-nine-percent/precache-manifest.f4699b3bb3222bd117d0fa5f8b2f714b.js"
+  "/kes97/journal/the-ninety-nine-percent/precache-manifest.e0338f692d209ad9067a6c5ca102750e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kes97/journal/ninety-nine-percent/index.html", {
+workbox.routing.registerNavigationRoute("/kes97/journal/the-ninety-nine-percent/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
