@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kes97/journal/the-ninety-nine-percent/precache-manifest.bf0b1b0a83be748e9642a7e883e1eda6.js"
+  "/kes97/journal/the-ninety-nine-percent/precache-manifest.9a4ed8369625c10da70ea226a9017d17.js"
 );
 
 workbox.clientsClaim();
