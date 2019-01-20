@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/kes97/journal/the-ninety-nine-percent/static/js/runtime~main.f87f0385.js"
   },
   {
-    "revision": "cd047be563eab7fd6638",
-    "url": "/kes97/journal/the-ninety-nine-percent/static/js/main.cd047be5.chunk.js"
+    "revision": "3c2f4e0a13f27aab4282",
+    "url": "/kes97/journal/the-ninety-nine-percent/static/js/main.3c2f4e0a.chunk.js"
   },
   {
     "revision": "4a34e45d34cafb7623bd",
     "url": "/kes97/journal/the-ninety-nine-percent/static/js/1.4a34e45d.chunk.js"
   },
   {
-    "revision": "cd047be563eab7fd6638",
-    "url": "/kes97/journal/the-ninety-nine-percent/static/css/main.85639c3b.chunk.css"
+    "revision": "3c2f4e0a13f27aab4282",
+    "url": "/kes97/journal/the-ninety-nine-percent/static/css/main.42dea65d.chunk.css"
   },
   {
-    "revision": "03b9d4d78f089f76cbb6fa68fcad0af2",
+    "revision": "925542aee6bd9c3856bda313c85800d4",
     "url": "/kes97/journal/the-ninety-nine-percent/index.html"
   }
 ];
