@@ -28,7 +28,7 @@ class App extends Component {
           <br></br>
 	        self-electing onto my board
           <br></br>
-	        to propagate their agency.
+          to cultivate their significance.        
         </p>
       </div>
     );
