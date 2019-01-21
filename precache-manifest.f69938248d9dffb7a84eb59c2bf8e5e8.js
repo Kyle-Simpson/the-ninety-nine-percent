@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/kes97/journal/the-ninety-nine-percent/static/css/main.fe5a0052.chunk.css"
   },
   {
-    "revision": "d472547452bb4f5e6870f7841e02ec20",
+    "revision": "71401b9a83d95cb9ef891cf774b3fabe",
     "url": "/kes97/journal/the-ninety-nine-percent/index.html"
   }
 ];
