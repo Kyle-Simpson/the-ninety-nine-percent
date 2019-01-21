@@ -9,7 +9,7 @@ class App extends Component {
         the ninety-nine percent
         </p>
         <p className="indented">
-          the ninety-nice percent are irrelevant. 
+          the ninety-nine percent are irrelevant. 
           <br></br>
 	        existing merely as pawns
           <br></br>
@@ -29,6 +29,26 @@ class App extends Component {
 	        self-electing onto my board
           <br></br>
           to cultivate their significance.        
+        </p>
+        <p className="indented">
+          i endorse neither percent.
+          <br></br>
+          i am the game master.
+          <br></br>
+          i ensure the ninety-nine percent 
+          <br></br>
+          never know 
+          <br></br>
+          they are not the one-percent,
+          <br></br>
+          and misdirect the one-percent
+          <br></br>
+          so i may cultivate
+          <br></br>
+          my own field.
+        </p>
+        <p className="indented">
+          welcome to my board.
         </p>
       </div>
     );
