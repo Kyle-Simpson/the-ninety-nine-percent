@@ -5,51 +5,53 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <p className="title">
-        the ninety-nine percent
+        <div className="indented">
+          <p className="title">
+            the ninety-nine percent
         </p>
-        <p className="indented">
-          the ninety-nine percent are irrelevant. 
+          <p className="">
+            the ninety-nine percent are irrelevant.
           <br></br>
-	        existing merely as pawns
+            existing merely as pawns
           <br></br>
-	        in my perennial game of chess.
+            in my perennial game of chess.
           <br></br>
-	        practice for the fraction
+            practice for the fraction
           <br></br>
-	        who want to contribute.
+            who want to contribute.
         </p>
-        <p className="indented">
-          the one percent are influential.
+          <p className="">
+            the one percent are influential.
           <br></br>
-	        shaping my advancement
+            shaping my advancement
           <br></br>
-	        and defending my castle.
+            and defending my castle.
           <br></br>
-	        self-electing onto my board
+            self-electing onto my board
           <br></br>
-          to cultivate their significance.        
+            to cultivate their significance.
         </p>
-        <p className="indented">
-          i endorse neither percent.
+          <p className="">
+            i endorse neither percent.
           <br></br>
-          i am the game master.
+            i am the game master.
           <br></br>
-          i ensure the ninety-nine percent 
+            i ensure the ninety-nine percent
           <br></br>
-          never know 
+            never know
           <br></br>
-          they are not the one-percent,
+            they are not the one-percent,
           <br></br>
-          and misdirect the one-percent
+            and misdirect the one-percent
           <br></br>
-          so i may cultivate
+            so i may cultivate
           <br></br>
-          my own field.
+            my own field.
         </p>
-        <p className="indented">
-          welcome to my board.
+          <p className="">
+            welcome to my board.
         </p>
+        </div>
       </div>
     );
   }

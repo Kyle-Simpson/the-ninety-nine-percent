@@ -1,25 +1,27 @@
 .App {
-  text-align: left;
-  margin-top:30%;
+  text-align:center;
+}
+
+.indented {
+  display:inline-block;
+  text-align:left;
 }
 
 .title {
-  margin-left:12%;
-}
-.indented {
-  margin-left:18%;
+  margin-left:-5%;
 }
 
-@media screen and (min-width:998px) {
+@media screen and (min-width:767px) {
   .App {
-    text-align: left;
-    margin-top:5%;
+    text-align:center;
+  }
+  
+  .indented {
+    display:inline-block;
+    text-align:left;
   }
   
   .title {
-    margin-left:37%;
+    margin-left:-15%;
   }
-  .indented {
-    margin-left:42%;
-  }
-}
+} 
